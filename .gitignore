@@ -18,4 +18,4 @@ project/metals.sbt
 project/project
 .scala
 .scala-build
-null/*
+/null/

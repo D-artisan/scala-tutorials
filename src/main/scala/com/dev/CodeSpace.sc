@@ -1,6 +1,6 @@
-def factorialFunction(number: Int): Int =
-  if (number <=1 ) 1
-  else number * factorialFunction(number-1)
+def factorialFunction(n: Int): Int =
+  if (n <= 1) 1
+  else n * factorialFunction(n-1)
 
 
-println(factorialFunction(5))
+print(factorialFunction(5))
